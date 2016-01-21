@@ -13,4 +13,4 @@ Sarvan skal begynne på The Rock sin diett
 
 DA tester Anders også en ting!
 
-Sarvan har treig mac
+MAMMAEN DIN har treig mac ;-)
