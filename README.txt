@@ -12,3 +12,5 @@ Sarvan skal begynne å trene på spicheren
 Sarvan skal begynne på The Rock sin diett
 
 DA tester Anders også en ting!
+
+Sarvan har treig mac
