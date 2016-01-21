@@ -8,3 +8,5 @@ Magnus har gått inn her og hatt det gøy
 
 
 Sarvan skal begynne å trene på spicheren
+
+Sarvan skal begynne på The Rock sin diett
