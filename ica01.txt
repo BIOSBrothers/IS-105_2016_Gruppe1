@@ -1,0 +1,20 @@
+In class activity 01 - Uke 4 - Gruppe 1 - BB7
+
+Oppgave 1.2.1
+a) log2 (8/4) = 1 Lise har fått 1 bit med informasjon
+b) log2 (8/5) = 0.678 Per har fått 0.68 bits med informasjon
+c) log2 (8/3) = 1.41 Oskar har fått 1.41 bits med informasjon
+d) Fordi Louise får informasjonen alle andre allerede har fått klarer hun å
+eliminere tallene og finne ut av det endelige svaret. Derfor har hun fått
+3 bits med informasjon fordi det var et 3-sifret binært tall.
+
+
+Oppgave 1.2.2
+a) Fordi det er større sjanse for at X blir brukt enn de andre og det gjør
+at man bruker mindre bits når man skriver X.
+b) X = 0    Y = 10    Z = 11
+  00101001100000 =  XXYYZXXXXX
+c) Brukte vedleggs filen som lå i ICA01.pdf
+
+Oppgave 1.2.3
+j
