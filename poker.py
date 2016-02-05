@@ -250,3 +250,4 @@ def test_shufflers(shufflers=[shuffle, shuffle1], decks=['abc','ab']):
             test_shuffler(f, deck)
 
 def factorial(n): return 1 if (n <= 1) else n*factorial(n-1)
+
