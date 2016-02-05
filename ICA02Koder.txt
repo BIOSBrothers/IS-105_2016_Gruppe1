@@ -1,0 +1,32 @@
+IS-105 ICA02Koder.
+1.2.1 Huffmankode
+Oppgave 1)
+A - Helse og idrettsfag - 1829 - 0.17
+B - Humaniora - 1525 - 0.15
+C - Kunstfag - 420 - 0.4  -------------------------v
+D - Teknologi og realfag - 2166 - 0.21              0.18 (Eksempel) hvordan man kommer seg fram til å lage huffman tre. Sette sammen de 2 laveste sansynlighetene.
+E - Lærerutdanning - 1506 - 0.14  ----------------^
+F - Økonomi - 3093 - 0.29
+
+Oppgave 2)
+Den som gir minst informasjon er Økonomi fordi det er den vi vet mest om. Når vi vet mye om en ting = stor forventning = lite bits
+A - log2(10539/1829)  - 2,53
+B - log2(10539/1525)  - 2,79
+C - log2(10539/420)	  - 4,65
+D - log2(10539/2166)  - 2,28
+E - log2(10539/1506)  - 2,81
+F - log2(10539/3093)  - 1,77 <-- Minst bits.
+
+Oppgave 3)
+
+A - 000 - 3bits - 0.17
+B - 001 - 3bits - 0.15
+C - 110 - 3bits - 0.4
+D - 11 - 2bits - 0.21
+E - 101 - 3bits - 0.14
+F - 01 - 2bits - 0.29
+
+Oppgave 4) (0.17)(3) + (0.15)(3) + (0.04)(3) + (0.21)(2) + (0.14)(3) + (0.29)(2) = 2.5 bits
+Fordi det er 100 studenter  ganger vi med 100 = 2.5*100 = 250bits gjennomsnittlig.
+
+Oppgave 5)
