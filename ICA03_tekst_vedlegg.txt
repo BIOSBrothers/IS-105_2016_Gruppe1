@@ -18,9 +18,14 @@ Oppgave A)
 
 
 Oppgave D)
-2 3 3 1 3 4 5 10 11 6 10 1 = 96 bits
+Går utifra at hver kode-bit er 4 bits og hver character er 8 bits.
+2 3 3 1 3 4 5 10 11 6 10 1 = 48 bits
 b c c a c bc cc ccc cccc ca ccc a = 176 bits
-176 / 96 = 1,8333 = En økning på 83,3% i størrelse
+<<<<<<< HEAD
+176 / 48  = 3,666 = En økning på 266% i størrelse
+=======
+96 / 176 = 1,8333 = En reduksjon på 45,5% i størrelse
+>>>>>>> origin/master
 
 
 11 0 0 10 0 110 00 000 0000 010 000 10 = 27 bits
